@@ -142,21 +142,21 @@ from math import *
 
 
 # File process
-# inp = open("files/hello.txt").read();
+# inp = open("nest/hello.txt").read();
 # print(inp)
 
-# for lines in open("files/hello.txt").readlines():
+# for lines in open("nest/hello.txt").readlines():
 #     print(lines)
 
 # count = 0
-# for lines in open("files/hello.txt").readlines():
+# for lines in open("nest/hello.txt").readlines():
 #     count = count+1;
 # print(count, " lines found")
 
 # c_c=0
 # c_g=0
 # c_t=0
-# seq = open("files/DNA").read()
+# seq = open("nest/DNA").read()
 # for protein in seq:
 #     c_t += 1
 #     if protein == 'C':

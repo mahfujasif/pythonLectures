@@ -1,0 +1,4 @@
+Write a program that opens two files: one for reading,
+the other for writing. The program reads, one line at a time,
+from the file named input.txt.
+The line is stripped (to remove the carriage return).
